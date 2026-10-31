@@ -1,0 +1,12 @@
+# Raw machine logs and dumps may contain account names, device identifiers, or tokens.
+*.evtx
+*.etl
+*.dmp
+*.log
+*.cab
+*.msu
+*.iso
+*.reg
+*.jsonl
+Thumbs.db
+desktop.ini
